@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwangyiyun_web"]=self["webpackChunkwangyiyun_web"]||[]).push([[576],{5211:function(n,u,e){e.r(u),e.d(u,{default:function(){return w}});var r=e(3396);function t(n,u){return(0,r.wg)(),(0,r.iD)("div",null," 直播 ")}var a=e(89);const i={},c=(0,a.Z)(i,[["render",t]]);var w=c}}]);
+//# sourceMappingURL=live.3b87165b.js.map
