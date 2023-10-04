@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkwangyiyun_web"]=self["webpackChunkwangyiyun_web"]||[]).push([[369],{6903:function(n,e,u){u.r(e),u.d(e,{default:function(){return o}});var r=u(3396);const a={class:"home"};function t(n,e,u,t,c,i){return(0,r.wg)(),(0,r.iD)("div",a," home组件 ")}var c={name:"HomeView"},i=u(89);const s=(0,i.Z)(c,[["render",t]]);var o=s}}]);
-//# sourceMappingURL=homeView.1520af6c.js.map
